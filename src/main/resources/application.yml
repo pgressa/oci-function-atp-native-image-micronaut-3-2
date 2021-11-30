@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: ociFunctionAtpNativeImageMicronaut32
+oci.config.profile: DEFAULT
+datasources:
+  default:
+    ocid: ''
+    walletPassword: ''
+    username: ''
+    password: ''
